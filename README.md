@@ -1,2 +1,11 @@
-# Notes
-Just my notes and things
+This is just a repo for:
+* Notes
+* Ideas
+* Maybe other stuff
+* etc
+Generally about automated intelligence
+
+Notes:
+* I'm generally completely / partially incoherent
+* Math heavy (unfortunately github's markdown renderer / viewer doesn't render math)
+* I frequently write function composition like $f_n \circ f_{n-1} \circ \dots \circ f_1 (x) = f_n\, f_{n-1}\, \dots\, f_1\, x$ because I like it
