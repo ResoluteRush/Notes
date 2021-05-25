@@ -12,3 +12,4 @@ Notes:
 * I frequently write function composition like $f_n \circ f_{n-1} \circ \dots \circ f_1 (x) = f_n\, f_{n-1}\, \dots\, f_1\, x$ because I like it
 
 [may 22 2021](./may-2021/may-22-2021.md) set min random loss on multiple MNIST AEs
+[may 23 2021](./may-2021/may-23-2021.md) the SMRL on MNIST AEs trained for much longer; memory-informed dred decoder trained for long
