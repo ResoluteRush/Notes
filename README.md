@@ -13,3 +13,5 @@ Notes:
 
 [may 22 2021](./may-2021/may-22-2021.md) set min random loss on multiple MNIST AEs
 [may 23 2021](./may-2021/may-23-2021.md) the SMRL on MNIST AEs trained for much longer; memory-informed dred decoder trained for long
+[may 24 2021](./may-2021/may-24-2021,md) flexible modules, mutually supporting modules, etc
+[may 25 2021](./may-2021/may-25-2021.md) automatic programming systems, subset types, ...
